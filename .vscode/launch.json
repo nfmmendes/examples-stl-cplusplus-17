@@ -1,0 +1,200 @@
+{
+  "configurations": [
+    {
+      "name": "Minimal example",
+      "type": "cppdbg",
+      "args": [],
+      "preLaunchTask": "Build Minimal Example",
+      "stopAtEntry": false,
+      "request": "launch",
+      "program": "${workspaceFolder}/build/./minimal-example",
+      "console": "internalConsole",
+      "logging": {
+        "moduleLoad": false
+      },
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Example 1",
+      "type": "cppdbg",
+      "args": [],
+      "preLaunchTask": "Build Example 1",
+      "stopAtEntry": false,
+      "request": "launch",
+      "program": "${workspaceFolder}/build/./example1",
+      "console": "internalConsole",
+      "logging": {
+        "moduleLoad": false
+      },
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Example 2",
+      "type": "cppdbg",
+      "args": [],
+      "preLaunchTask": "Build Example 2",
+      "stopAtEntry": false,
+      "request": "launch",
+      "program": "${workspaceFolder}/build/./example2",
+      "console": "internalConsole",
+      "logging": {
+        "moduleLoad": false
+      },
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Example 3",
+      "type": "cppdbg",
+      "args": [],
+      "preLaunchTask": "Build Example 3",
+      "stopAtEntry": false,
+      "request": "launch",
+      "program": "${workspaceFolder}/build/./example3",
+      "console": "internalConsole",
+      "logging": {
+        "moduleLoad": false
+      },
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Example 4",
+      "type": "cppdbg",
+      "args": [],
+      "preLaunchTask": "Build Example 4",
+      "stopAtEntry": false,
+      "request": "launch",
+      "program": "${workspaceFolder}/build/./example4",
+      "console": "internalConsole",
+      "logging": {
+        "moduleLoad": false
+      },
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Example 5",
+      "type": "cppdbg",
+      "args": [],
+      "preLaunchTask": "Build Example 5",
+      "stopAtEntry": false,
+      "request": "launch",
+      "program": "${workspaceFolder}/build/./example5",
+      "console": "internalConsole",
+      "logging": {
+        "moduleLoad": false
+      },
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Example 6",
+      "type": "cppdbg",
+      "args": [],
+      "preLaunchTask": "Build Example 6",
+      "stopAtEntry": false,
+      "request": "launch",
+      "program": "${workspaceFolder}/build/./example6",
+      "console": "internalConsole",
+      "logging": {
+        "moduleLoad": false
+      },
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Example 7",
+      "type": "cppdbg",
+      "args": [],
+      "preLaunchTask": "Build Example 7",
+      "stopAtEntry": false,
+      "request": "launch",
+      "program": "${workspaceFolder}/build/./example7",
+      "console": "internalConsole",
+      "logging": {
+        "moduleLoad": false
+      },
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Example 8",
+      "type": "cppdbg",
+      "args": [],
+      "preLaunchTask": "Build Example 8",
+      "stopAtEntry": false,
+      "request": "launch",
+      "program": "${workspaceFolder}/build/./example8",
+      "console": "internalConsole",
+      "logging": {
+        "moduleLoad": false
+      },
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Example 9",
+      "type": "cppdbg",
+      "args": [],
+      "preLaunchTask": "Build Example 9",
+      "stopAtEntry": false,
+      "request": "launch",
+      "program": "${workspaceFolder}/build/./example9",
+      "console": "internalConsole",
+      "logging": {
+        "moduleLoad": false
+      },
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Example 10",
+      "type": "cppdbg",
+      "args": [],
+      "preLaunchTask": "Build Example 10",
+      "stopAtEntry": false,
+      "request": "launch",
+      "program": "${workspaceFolder}/build/./example10",
+      "console": "internalConsole",
+      "logging": {
+        "moduleLoad": false
+      },
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Example 11",
+      "type": "cppdbg",
+      "args": [],
+      "preLaunchTask": "Build Example 11",
+      "stopAtEntry": false,
+      "request": "launch",
+      "program": "${workspaceFolder}/build/./example11",
+      "console": "internalConsole",
+      "logging": {
+        "moduleLoad": false
+      },
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Example 12",
+      "type": "cppdbg",
+      "args": [],
+      "preLaunchTask": "Build Example 12",
+      "stopAtEntry": false,
+      "request": "launch",
+      "program": "${workspaceFolder}/build/./example12",
+      "console": "internalConsole",
+      "logging": {
+        "moduleLoad": false
+      },
+      "cwd": "${workspaceFolder}"
+    },
+    {
+      "name": "Example 13",
+      "type": "cppdbg",
+      "args": [],
+      "preLaunchTask": "Build Example 13",
+      "stopAtEntry": false,
+      "request": "launch",
+      "program": "${workspaceFolder}/build/./example13",
+      "console": "internalConsole",
+      "logging": {
+        "moduleLoad": false
+      },
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}

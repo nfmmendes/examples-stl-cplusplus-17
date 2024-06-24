@@ -1,0 +1,145 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "cmake",
+      "label": "Build Minimal Example",
+      "command": "build",
+      "targets": [
+        "minimal-example"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "type": "cmake",
+      "label": "Build Example 1",
+      "command": "build",
+      "targets": [
+        "example1"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "type": "cmake",
+      "label": "Build Example 2",
+      "command": "build",
+      "targets": [
+        "example2"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "type": "cmake",
+      "label": "Build Example 3",
+      "command": "build",
+      "targets": [
+        "example3"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "type": "cmake",
+      "label": "Build Example 4",
+      "command": "build",
+      "targets": [
+        "example4"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "type": "cmake",
+      "label": "Build Example 5",
+      "command": "build",
+      "targets": [
+        "example5"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "type": "cmake",
+      "label": "Build Example 6",
+      "command": "build",
+      "targets": [
+        "example6"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "type": "cmake",
+      "label": "Build Example 7",
+      "command": "build",
+      "targets": [
+        "example7"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "type": "cmake",
+      "label": "Build Example 8",
+      "command": "build",
+      "targets": [
+        "example8"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "type": "cmake",
+      "label": "Build Example 9",
+      "command": "build",
+      "targets": [
+        "example9"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "type": "cmake",
+      "label": "Build Example 10",
+      "command": "build",
+      "targets": [
+        "example10"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "type": "cmake",
+      "label": "Build Example 11",
+      "command": "build",
+      "targets": [
+        "example11"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "type": "cmake",
+      "label": "Build Example 12",
+      "command": "build",
+      "targets": [
+        "example12"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+    {
+      "type": "cmake",
+      "label": "Build Example 13",
+      "command": "build",
+      "targets": [
+        "example13"
+      ],
+      "group": "build",
+      "problemMatcher": []
+    },
+  ]
+}
